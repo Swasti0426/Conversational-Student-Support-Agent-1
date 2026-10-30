@@ -216,13 +216,3 @@ The project demonstration video explains the application workflow, architecture,
 Campus Companion demonstrates the implementation of an AI-powered student-support agent using conversational AI, tool calling, knowledge retrieval, and preference memory.
 
 The project provides a practical example of how Agentic AI can simplify common student-support activities and improve access to institutional information.
-
-## 13. Before Public GitHub Submission
-
-- Confirm that `.env` and actual API keys are excluded.
-- Confirm that no real credentials or student information are committed.
-- Exclude local databases, private chat histories, and unnecessary virtual-environment files.
-- Verify that all files mentioned in the README are present.
-- Test the setup using a fresh virtual environment.
-- Make the repository public if required by the assignment.
-- Verify that the repository link works in a private/incognito browser.
