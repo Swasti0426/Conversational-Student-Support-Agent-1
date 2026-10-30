@@ -187,13 +187,7 @@ These results represent observations from the supplied evaluation sample. They a
 
 Detailed evaluation results and supporting traces are provided in the `evaluation/` folder, where included.
 
-## 9. Demonstration Video
-
-The project demonstration video explains the application workflow, architecture, student-support tools, knowledge retrieval, conversation memory, and evaluation.
-
-**Video Link:** [Insert your Google Drive or YouTube video link here]
-
-## 10. Security and Privacy Notes
+## 9. Security and Privacy Notes
 
 - Never commit `.env` files, API keys, passwords, tokens, local databases, chat logs, or personal data.
 - The public repository should exclude runtime SQLite databases and personal conversation-memory files.
@@ -202,7 +196,7 @@ The project demonstration video explains the application workflow, architecture,
 - This project is an educational prototype, not a production-ready student information system.
 - Authentication, authorization, privacy, logging, and deployment controls require further review before real-world use.
 
-## 11. Known Limitations
+## 10. Known Limitations
 
 - The language model requires a valid Groq API key and an active internet connection.
 - Policy answer quality depends on the available policy Markdown/CSV files and the knowledge-base index.
@@ -211,7 +205,7 @@ The project demonstration video explains the application workflow, architecture,
 - Some supplied evaluation cases are partial or require further retesting.
 - The limited evaluation sample does not establish production-level reliability or perfect accuracy.
 
-## 12. Conclusion
+## 11. Conclusion
 
 Campus Companion demonstrates the implementation of an AI-powered student-support agent using conversational AI, tool calling, knowledge retrieval, and preference memory.
 
