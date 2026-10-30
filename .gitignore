@@ -1,0 +1,11 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+data/conversation_memory.json
+data/student_memory.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+logs/*.jsonl
